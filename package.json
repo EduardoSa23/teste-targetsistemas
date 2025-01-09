@@ -1,0 +1,24 @@
+{
+  "name": "teste-vaga",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "run-ex1": "node src/exercicio1/soma.js",
+    "run-ex2": "node src/exercicio2/fibonacci.js",
+    "run-ex3": "node src/exercicio3/analiseFaturamento.js",
+    "run-ex4": "node src/exercicio4/representacaoEstados.js",
+    "run-ex5": "node src/exercicio5/inverterString.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "Resolução de teste tecnico em JavaScript",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
