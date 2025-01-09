@@ -6,7 +6,7 @@ Este repositório contém a resolução de um teste técnico de programação. O
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://seu-repositorio.git
+   git clone git@github.com:EduardoSa23/teste-targetsistemas.git
    cd teste-vaga
 
 2. **Instalar dependências**
