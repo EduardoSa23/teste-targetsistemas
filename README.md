@@ -10,9 +10,11 @@ Este repositório contém a resolução de um teste técnico de programação. O
    cd teste-vaga
 
 2. **Instalar dependências**
+    ```bash
     npm install
 
 3. **Rodar o código**
+    ```bash
     node src/index.js
 
 # Descrição das questões
